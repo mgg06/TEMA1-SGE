@@ -2,9 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Desarrollo_de_Aplicaciones_Multiplataforma-FF1493?style=for-the-badge" alt="DAM" />
-  <img src="https://img.shields.io/badge/Módulo-Gestión_Empresarial-FF69B4?style=for-the-badge" alt="Módulo" />
-  <img src="https://img.shields.io/badge/Instituto-MEDAC-FFB6C1?style=for-the-badge&logoColor=white" alt="Instituto" />
-  <img src="https://img.shields.io/badge/Ubicación-Sevilla-C71585?style=for-the-badge" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Módulo-Sistemas_de_Gestión_Empresarial-FF69B4?style=for-the-badge" alt="Módulo" />
+  <img src="https://img.shields.io/badge/Instituto-DAVANTE-FFB6C1?style=for-the-badge&logoColor=white" alt="Instituto" />
 </div>
 
 <br>
