@@ -72,13 +72,8 @@ La modernización tecnológica de "Rapidísimo" no es una simple mejora estétic
 
 ## <span style="color: #FF1493;">5. Autora del Proyecto</span>
 
-<p style="color: #C71585; font-weight: bold;">Marta</p>
+<p style="color: #C71585; font-weight: bold;">Marta González González</p>
 <p><i>Estudiante de Desarrollo de Aplicaciones Multiplataforma</i></p>
-
-*   **Tecnologías de control de versiones:** Git / GitHub
-*   **Diseño de la presentación de datos:** Markdown avanzado, HTML/CSS estructurado.
-*   **Centro de Estudios:** Instituto MEDAC, Sevilla.
-*   **Fecha:** Septiembre 2026
 
 <div align="center">
   <img src="https://img.shields.io/badge/Estado_del_Proyecto-Completado_y_Revisado-FF1493?style=for-the-badge" alt="Estado" />
